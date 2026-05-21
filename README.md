@@ -1,4 +1,4 @@
 # First-Repository
 This is my first Git Repository
 <br>
-Author - Rishabh Ratnawat
+Author - (Rishabh Ratnawat)
